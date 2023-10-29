@@ -1,0 +1,10 @@
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Layout", name: "layout", wdiget: "hidden", default: "default.liquid"}
+    - {label: "Title", name: "title", wdiget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
