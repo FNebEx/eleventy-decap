@@ -19,4 +19,6 @@ Also, shout-out to Decap having a rich text editor. IDK if that's new or a remna
 
 That's all I got for now. Peace.
 
-Before I dip, Boldy James "***Manger on McNichols***" is a slept on album. It's something that I truly enjoyed when it dropped during the pandemic. For me, it got overshadowed by "***The Versace Tape***" But three years later, I'm resisting it and it's a solid ass album that people need to talk about.
+Before I dip, Boldy James "***Manger on McNichols***" is a slept on album. It's something that I truly enjoyed when it dropped during the pandemic. For me, it got overshadowed by "***The Versace Tape***" But three years later, I'm resisting it and it's a solid ass album that people need to talk about. Boldy is a crazy ass rapper and 2020 was like the perfect year for him, though 2022 had ***Mr. Ten80*** and that shit was on repeat for me for like, 4 months. 
+
+OK I'm done typing. I'm glad that I got back into 11ty, and I found a new CMS that won't die just to release a new product.
