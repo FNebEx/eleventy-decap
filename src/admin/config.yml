@@ -12,3 +12,7 @@ collections:
     fields:
     - {label: "Title", name: "title", wdiget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
+  - name: "people"
+    label: "People"
+    folder: "/src/_data"
+    create: true
