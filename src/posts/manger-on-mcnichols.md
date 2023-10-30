@@ -18,3 +18,5 @@ I won't lie, even before the rebrand, I was pretty intimidated by Netlify CMS. T
 Also, shout-out to Decap having a rich text editor. IDK if that's new or a remnant from Netlify. Either way, I'm for it. 
 
 That's all I got for now. Peace.
+
+Before I dip, Boldy James "***Manger on McNichols***" is a slept on album. It's something that I truly enjoyed when it dropped during the pandemic. For me, it got overshadowed by "***The Versace Tape***" But three years later, I'm resisting it and it's a solid ass album that people need to talk about.
