@@ -6,10 +6,9 @@ media_folder: "images/uploads"
 collections:
   - name: "posts"
     label: "Posts"
-    folder: "posts"
+    folder: "/src/posts"
     create: true
     slug: "{{slug}}"
     fields:
-    - {label: "Layout", name: "layout", wdiget: "hidden", default: "default.liquid"}
     - {label: "Title", name: "title", wdiget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
