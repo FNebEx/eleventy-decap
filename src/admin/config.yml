@@ -12,10 +12,18 @@ collections:
     fields:
     - {label: "Title", name: "title", wdiget: "string"}
     - {label: "Body", name: "body", widget: "markdown"}
-  - name: "people"
-    label: "People"
-    file: "/src/_data/people.json"
-    fields:
-    - {label: "Name", name: "name", widget: "string"}
-    - {label: "Age", name: "age", widget: "number"}
+  # Global files
+  - name: "globals"
+    label: "Globals"
+    files:
+    - name: "people"
+      label: "People"
+      file: "/src/_data/people.json"
+      fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Age", name: "age", widget: "number"}
+
+    
+    
+    
     
