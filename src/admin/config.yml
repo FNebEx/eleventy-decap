@@ -14,8 +14,8 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
   - name: "people"
     label: "People"
-    folder: "/src/_data"
-    create: true
+    folder: "/src/_data/people.json"
     fields:
     - {label: "Name", name: "name", widget: "string"}
     - {label: "Age", name: "age", widget: "number"}
+    
